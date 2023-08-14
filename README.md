@@ -1,0 +1,1 @@
+iSMC static binary
